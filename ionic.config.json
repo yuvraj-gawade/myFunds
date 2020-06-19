@@ -1,0 +1,8 @@
+{
+  "name": "myFunds",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "c49f5bfc"
+}
